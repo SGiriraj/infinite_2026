@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace ThirdAssessmentCSharp.ThirdQuestion
 {
-    internal class MobilePhone
+    public class MobilePhone
     {
+        public delegate void RingEventHandler();
+
+       
+        public event RingEventHandler OnRing;
+
+       
+        public void ReceiveCall()
+        {
+            Console.WriteLine("Incoming call...\n");
+
+            
+            OnRing?.Invoke();
+        }
     }
 }

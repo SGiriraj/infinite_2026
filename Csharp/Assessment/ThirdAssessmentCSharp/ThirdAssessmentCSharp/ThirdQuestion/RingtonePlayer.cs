@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ThirdAssessmentCSharp.ThirdQuestion
 {
-    internal class RingtonePlayer
+    public class RingtonePlayer
     {
+        public void PlayRingtone()
+        {
+            Console.WriteLine("Playing ringtone...");
+        }
     }
 }

@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ThirdAssessmentCSharp.ThirdQuestion
 {
-    internal class ScreenDisplay
+    public class ScreenDisplay
     {
+        public void ShowCallerInfo()
+        {
+            Console.WriteLine("Displaying caller information...");
+        }
+
     }
 }

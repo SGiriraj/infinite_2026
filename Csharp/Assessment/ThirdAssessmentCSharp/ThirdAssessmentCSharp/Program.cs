@@ -13,10 +13,10 @@ namespace ThirdAssessmentCSharp
     {
         static void Main(string[] args)
         {
-            CricketTeam obj1= new CricketTeam();
-            obj1.Pointscalculation(10);
-            FileHandling obj2=new FileHandling();
-            obj2.Write();
+            //CricketTeam obj1= new CricketTeam();
+            //obj1.Pointscalculation(10);
+            //FileHandling obj2 = new FileHandling();
+            //obj2.Write();
             MobilePhone phone = new MobilePhone();
 
             RingtonePlayer ringtone = new RingtonePlayer();
@@ -27,7 +27,7 @@ namespace ThirdAssessmentCSharp
             phone.OnRing += screen.ShowCallerInfo;
             phone.OnRing += vibration.Vibrate;
 
-            
+
             phone.ReceiveCall();
         }
     }

@@ -8,5 +8,9 @@ namespace ThirdAssessmentCSharp.ThirdQuestion
 {
     public class VibrationMotor
     {
+        public void Vibrate()
+        {
+            Console.WriteLine("Phone is vibrating...");
+        }
     }
 }
