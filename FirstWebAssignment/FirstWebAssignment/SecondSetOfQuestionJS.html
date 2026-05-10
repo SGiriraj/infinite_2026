@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <!--1. JavaScript program to find the area of a triangle (sides 5, 6, 7)-->
+    <script>
+        let a = 5;
+        let b = 6;
+        let c = 7;
+
+        let s = (a + b + c) / 2;
+
+        let area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
+
+        console.log("Area of Triangle = " + area);</script>
+
+    <!--2. JavaScript program to print star pattern using nested loop-->
+    <script>
+
+        for (let i = 1; i <= 5; i++) {
+            let pattern = "";
+
+            for (let j = 1; j <= i; j++) {
+                pattern += "* ";
+            }
+
+            console.log(pattern);
+        }
+
+    </script>
+
+    <!--3. JavaScript program to check whether a year is a leap year-->
+    <script>
+
+        let year = 2024;
+
+        if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+            console.log(year + " is a Leap Year");
+        }
+        else {
+            console.log(year + " is NOT a Leap Year");
+        }
+
+    </script>
+    <!--4. JavaScript program to calculate days left until Independence Day-->
+    <script>
+
+   
+        let leapYear = 2024;
+
+        if ((leapYear % 4 == 0 && leapYear % 100 != 0) || (leapYear % 400 == 0)) {
+            console.log(leapYear + " is a Leap Year");
+        }
+        else {
+            console.log(leapYear + " is NOT a Leap Year");
+        }
+
+
+        
+        let today = new Date();
+
+        let currentYear = today.getFullYear();
+
+        let independenceDay = new Date(currentYear, 7, 15);
+
+        if (today > independenceDay) {
+            independenceDay = new Date(currentYear + 1, 7, 15);
+        }
+
+        let diff = independenceDay - today;
+
+        let daysLeft = Math.ceil(diff / (1000 * 60 * 60 * 24));
+
+        console.log("Days left until Independence Day: " + daysLeft);
+
+    </script>
+</body>
+</html>
