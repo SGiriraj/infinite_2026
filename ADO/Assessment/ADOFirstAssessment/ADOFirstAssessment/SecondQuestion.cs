@@ -11,6 +11,7 @@ namespace ADOFirstAssessment
             SqlConnection con = new SqlConnection(
             "server=ICS-LT-1G33YS3\\SQLEXPRESS;database=Employeemanagement;integrated security=true");
 
+            // Stored Procedure
             SqlCommand cmd =
             new SqlCommand("sp_UpdateSalary", con);
 
@@ -21,27 +22,36 @@ namespace ADOFirstAssessment
 
             con.Open();
 
-            // Receive Updated Salary
+            // Execute Procedure and Receive Salary
             object salary = cmd.ExecuteScalar();
 
             Console.WriteLine("Updated Salary : " + salary);
-            SqlCommand cmd2 = new SqlCommand(
-           "SELECT * FROM Employee_Details", con);
 
-            SqlDataReader dr = cmd2.ExecuteReader();
+            con.Close();
+
+            // Disconnected ADO.NET Starts
+            
+
+            SqlDataAdapter da =
+            new SqlDataAdapter(
+            "SELECT * FROM Employee_Details", con);
+
+            DataSet ds = new DataSet();
+
+            // Fill DataSet
+            da.Fill(ds);
 
             Console.WriteLine("Employee Records");
 
-            while (dr.Read())
+            // Display Records
+            foreach (DataRow row in ds.Tables[0].Rows)
             {
                 Console.WriteLine(
-                dr["Empno"] + " " + dr["EmpName"] + " " +
-                dr["Empsal"] + " " +
-                dr["Emptype"]);
+                row["Empno"] + " " +
+                row["EmpName"] + " " +
+                row["Empsal"] + " " +
+                row["Emptype"]);
             }
-
-
-            con.Close();
 
             Console.ReadLine();
         }
