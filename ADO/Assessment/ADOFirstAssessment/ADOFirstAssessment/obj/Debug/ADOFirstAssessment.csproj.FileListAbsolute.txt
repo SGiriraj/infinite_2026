@@ -1,0 +1,7 @@
+C:\Users\girirajs\Downloads\infinite_2026\ADO\Assessment\ADOFirstAssessment\ADOFirstAssessment\bin\Debug\ADOFirstAssessment.exe.config
+C:\Users\girirajs\Downloads\infinite_2026\ADO\Assessment\ADOFirstAssessment\ADOFirstAssessment\bin\Debug\ADOFirstAssessment.exe
+C:\Users\girirajs\Downloads\infinite_2026\ADO\Assessment\ADOFirstAssessment\ADOFirstAssessment\bin\Debug\ADOFirstAssessment.pdb
+C:\Users\girirajs\Downloads\infinite_2026\ADO\Assessment\ADOFirstAssessment\ADOFirstAssessment\obj\Debug\ADOFirstAssessment.csproj.AssemblyReference.cache
+C:\Users\girirajs\Downloads\infinite_2026\ADO\Assessment\ADOFirstAssessment\ADOFirstAssessment\obj\Debug\ADOFirstAssessment.csproj.CoreCompileInputs.cache
+C:\Users\girirajs\Downloads\infinite_2026\ADO\Assessment\ADOFirstAssessment\ADOFirstAssessment\obj\Debug\ADOFirstAssessment.exe
+C:\Users\girirajs\Downloads\infinite_2026\ADO\Assessment\ADOFirstAssessment\ADOFirstAssessment\obj\Debug\ADOFirstAssessment.pdb

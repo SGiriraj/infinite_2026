@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ADO\\Assessment\\ADOFirstAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5127230-B684-4063-8954-811F53050359}|ADOFirstAssessment\\ADOFirstAssessment.csproj|c:\\users\\girirajs\\downloads\\infinite_2026\\ado\\assessment\\adofirstassessment\\adofirstassessment\\firstquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5127230-B684-4063-8954-811F53050359}|ADOFirstAssessment\\ADOFirstAssessment.csproj|solutionrelative:adofirstassessment\\firstquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5127230-B684-4063-8954-811F53050359}|ADOFirstAssessment\\ADOFirstAssessment.csproj|c:\\users\\girirajs\\downloads\\infinite_2026\\ado\\assessment\\adofirstassessment\\adofirstassessment\\secondquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5127230-B684-4063-8954-811F53050359}|ADOFirstAssessment\\ADOFirstAssessment.csproj|solutionrelative:adofirstassessment\\secondquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ADOFirstAssessment||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5127230-B684-4063-8954-811F53050359}|ADOFirstAssessment\\ADOFirstAssessment.csproj|c:\\users\\girirajs\\downloads\\infinite_2026\\ado\\assessment\\adofirstassessment\\adofirstassessment\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ADOFirstAssessment",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ADO\\Assessment\\ADOFirstAssessment\\ADOFirstAssessment\\ADOFirstAssessment.csproj",
+              "RelativeDocumentMoniker": "ADOFirstAssessment\\ADOFirstAssessment.csproj",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ADO\\Assessment\\ADOFirstAssessment\\ADOFirstAssessment\\ADOFirstAssessment.csproj",
+              "RelativeToolTip": "ADOFirstAssessment\\ADOFirstAssessment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-13T04:57:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecondQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ADO\\Assessment\\ADOFirstAssessment\\ADOFirstAssessment\\SecondQuestion.cs",
+              "RelativeDocumentMoniker": "ADOFirstAssessment\\SecondQuestion.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ADO\\Assessment\\ADOFirstAssessment\\ADOFirstAssessment\\SecondQuestion.cs",
+              "RelativeToolTip": "ADOFirstAssessment\\SecondQuestion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T04:53:48.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ADO\\Assessment\\ADOFirstAssessment\\ADOFirstAssessment\\FirstQuestion.cs",
+              "RelativeDocumentMoniker": "ADOFirstAssessment\\FirstQuestion.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ADO\\Assessment\\ADOFirstAssessment\\ADOFirstAssessment\\FirstQuestion.cs",
+              "RelativeToolTip": "ADOFirstAssessment\\FirstQuestion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T04:26:36.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
