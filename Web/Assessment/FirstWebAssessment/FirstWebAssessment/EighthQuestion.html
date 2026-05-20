@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Input Change Event</title>
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.4.1.min.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+
+            $("input").change(function () {
+
+                $("body").append("<p>Input field value changed</p>");
+
+            });
+
+        });
+
+    </script>
+
+</head>
+
+<body>
+
+    Enter Name :
+    <input type="text">
+
+</body>
+</html>

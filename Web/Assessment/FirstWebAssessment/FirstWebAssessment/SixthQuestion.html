@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Get Single Element</title>
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.4.1.min.js"></script>
+
+    <script>
+
+        function getElement() {
+
+            let idValue = $("#txtId").val();
+
+            let item = $("#" + idValue).text();
+
+            $("#result").text(item);
+
+        }
+
+    </script>
+
+</head>
+
+<body>
+
+    Enter Id :
+    <input type="text" id="txtId">
+
+    <button onclick="getElement()">Get Element</button>
+
+    <br><br>
+
+    <p id="result"></p>
+
+    <ul>
+
+        <li id="first">CSHARP</li>
+
+        <li id="second">SQL</li>
+
+        <li id="third">ADO</li>
+
+    </ul>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Multiplication and Division</title>
+    <style>
+       
+        #page {
+            width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+           
+        }
+    </style>
+
+    <script>
+        function multiplyNumbers() {
+            let num1 = parseFloat(document.getElementById("txtNum1").value);
+            let num2 = parseFloat(document.getElementById("txtNum2").value);
+
+            let result = num1 * num2;
+
+            document.getElementById("txtResult").value = result;
+        }
+
+        function divideNumbers() {
+            let num1 = parseFloat(document.getElementById("txtNum1").value);
+            let num2 = parseFloat(document.getElementById("txtNum2").value);
+
+            if (num2 == 0) {
+                alert("Cannot divide by zero");
+                return;
+            }
+
+            let result = num1 / num2;
+
+            document.getElementById("txtResult").value = result;
+        }
+    </script>
+</head>
+
+<body>
+    <div id="page">
+        <h2>Multiplication and Division Calculator</h2>
+
+        <label>Enter First Number :</label>
+        <input type="text" id="txtNum1">
+        <br><br>
+
+        <label>Enter Second Number :</label>
+        <input type="text" id="txtNum2">
+        <br><br>
+
+        <button onclick="multiplyNumbers()">Multiply</button>
+        &nbsp;&nbsp;&nbsp;
+
+
+        <button onclick="divideNumbers()">Divide</button>
+
+        <br><br>
+
+        <label>Result :</label>
+        <input type="text" id="txtResult">
+    </div>
+</body>
+</html>
