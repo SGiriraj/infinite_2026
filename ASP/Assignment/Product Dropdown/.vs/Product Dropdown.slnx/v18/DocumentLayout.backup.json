@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assignment\\Product Dropdown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8244293A-BE88-43C9-B1AD-D8A8DED29AB9}|Product Dropdown\\Product Dropdown.csproj|c:\\users\\girirajs\\downloads\\infinite_2026\\asp\\assignment\\product dropdown\\product dropdown\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8244293A-BE88-43C9-B1AD-D8A8DED29AB9}|Product Dropdown\\Product Dropdown.csproj|solutionrelative:product dropdown\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8244293A-BE88-43C9-B1AD-D8A8DED29AB9}|Product Dropdown\\Product Dropdown.csproj|c:\\users\\girirajs\\downloads\\infinite_2026\\asp\\assignment\\product dropdown\\product dropdown\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8244293A-BE88-43C9-B1AD-D8A8DED29AB9}|Product Dropdown\\Product Dropdown.csproj|solutionrelative:product dropdown\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assignment\\Product Dropdown\\Product Dropdown\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Product Dropdown\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assignment\\Product Dropdown\\Product Dropdown\\Default.aspx.cs",
+              "RelativeToolTip": "Product Dropdown\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:42:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assignment\\Product Dropdown\\Product Dropdown\\Default.aspx",
+              "RelativeDocumentMoniker": "Product Dropdown\\Default.aspx",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assignment\\Product Dropdown\\Product Dropdown\\Default.aspx",
+              "RelativeToolTip": "Product Dropdown\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-22T18:33:51.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
