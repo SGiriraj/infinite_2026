@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\users\\girirajs\\downloads\\infinite_2026\\asp\\assessment\\foodordermanagement\\foodordermanagement\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\foodordermanagement\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7DAEEE-882E-4A19-9DA8-8F753F6F2B58}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Logout.aspx.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\Logout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:08:26.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\DBHelper.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\DBHelper.cs",
+              "RelativeToolTip": "FoodOrderManagement\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:46:50.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Logout.aspx",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\Logout.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:41:22.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Login.aspx",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:39:35.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Global.asax.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Global.asax.cs",
+              "RelativeToolTip": "FoodOrderManagement\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:06:30.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderStats.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\OrderStats.aspx.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\OrderStats.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:05:36.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuDetails.aspx",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\MenuDetails.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:40:38.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuList.aspx",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuList.aspx",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\MenuList.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:40:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Site.Master",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Site.Master",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Site.Master",
+              "RelativeToolTip": "FoodOrderManagement\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:53:20.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderStats.aspx",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\OrderStats.aspx",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\OrderStats.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:40:55.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\MenuDetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:52:21.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\Login.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:44:36.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditMenu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:51:05.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuList.aspx.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\MenuList.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:48:59.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEditMenu.aspx",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\AddEditMenu.aspx",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\AddEditMenu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:40:20.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Web.config",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Web.config",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Web.config",
+              "RelativeToolTip": "FoodOrderManagement\\Web.config",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-27T04:41:57.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
