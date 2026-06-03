@@ -1,0 +1,20 @@
+﻿@model IEnumerable<CustomerOrderMVC.Models.Order>
+
+<h2>Order Details</h2>
+
+<table border="1">
+
+    <tr>
+        <th>Order ID</th>
+        <th>Customer ID</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.OrderID</td>
+            <td>@item.CustomerID</td>
+        </tr>
+    }
+
+</table>

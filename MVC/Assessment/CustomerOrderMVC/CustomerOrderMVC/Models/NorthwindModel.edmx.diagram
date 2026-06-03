@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0f0f068289254a63942eda1fa93db5bf" Name="Diagram1">
+        <EntityTypeShape EntityType="masterModel.Appointment" Width="1.5" PointX="10" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Category" Width="1.5" PointX="3" PointY="22.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.cityData" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.CustomerDemographic" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Customer" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Dept" Width="1.5" PointX="12.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Doctor" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Emp" Width="1.5" PointX="15" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.empdata" Width="1.5" PointX="2.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Employee" Width="1.5" PointX="12.75" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Employee1" Width="1.5" PointX="3" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.ExceptionLog" Width="1.5" PointX="5.75" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Order_Detail" Width="1.5" PointX="7.5" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Order" Width="1.5" PointX="5.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Patient" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Product" Width="1.5" PointX="10.75" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Product1" Width="1.5" PointX="5.25" PointY="24.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.ProductSale" Width="1.5" PointX="13" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Region" Width="1.5" PointX="5.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Shipper" Width="1.5" PointX="3" PointY="18" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Stable1" Width="1.5" PointX="7.75" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Stable2" Width="1.5" PointX="9.75" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Student" Width="1.5" PointX="14.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Supplier" Width="1.5" PointX="3" PointY="25.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.tblDepartment" Width="1.5" PointX="9.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.tblEmployee" Width="1.5" PointX="12" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.Territory" Width="1.5" PointX="8" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.User" Width="1.5" PointX="14.75" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.MSreplication_options" Width="1.5" PointX="14.75" PointY="17.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.spt_fallback_db" Width="1.5" PointX="16.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.spt_fallback_dev" Width="1.5" PointX="7.75" PointY="18.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.spt_fallback_usg" Width="1.5" PointX="16.75" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="masterModel.spt_monitor" Width="1.5" PointX="9.75" PointY="18.375" IsExpanded="true" />
+        <AssociationConnector Association="masterModel.FK__Appointme__Docto__1758727B" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK__Appointme__Patie__16644E42" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK_Products_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK_Orders_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK__Emp__deptno__0EAE1DE1" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK_Employees_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK_Orders_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK_Order_Details_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK_Order_Details_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK_Orders_Shippers" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK__ProductSa__PrdId__1372D2FE" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK_Products_Suppliers" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK_Territories_Region" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.FK__tblEmploy__Depar__09E968C4" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.CustomerCustomerDemo" ManuallyRouted="false" />
+        <AssociationConnector Association="masterModel.EmployeeTerritories" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
