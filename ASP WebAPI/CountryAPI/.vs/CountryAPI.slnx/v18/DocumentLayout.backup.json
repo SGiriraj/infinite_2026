@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP WebAPI\\CountryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD008E-F7DC-495E-B390-14E373C9046F}|CountryAPI\\CountryAPI.csproj|c:\\users\\girirajs\\downloads\\infinite_2026\\asp webapi\\countryapi\\countryapi\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABD008E-F7DC-495E-B390-14E373C9046F}|CountryAPI\\CountryAPI.csproj|solutionrelative:countryapi\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD008E-F7DC-495E-B390-14E373C9046F}|CountryAPI\\CountryAPI.csproj|c:\\users\\girirajs\\downloads\\infinite_2026\\asp webapi\\countryapi\\countryapi\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABD008E-F7DC-495E-B390-14E373C9046F}|CountryAPI\\CountryAPI.csproj|solutionrelative:countryapi\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP WebAPI\\CountryAPI\\CountryAPI\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "CountryAPI\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP WebAPI\\CountryAPI\\CountryAPI\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "CountryAPI\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:42:31.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP WebAPI\\CountryAPI\\CountryAPI\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "CountryAPI\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\girirajs\\Downloads\\infinite_2026\\ASP WebAPI\\CountryAPI\\CountryAPI\\Models\\Country.cs",
+              "RelativeToolTip": "CountryAPI\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:41:17.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

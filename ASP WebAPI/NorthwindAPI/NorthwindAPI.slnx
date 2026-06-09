@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NorthwindAPI/NorthwindAPI.csproj" Id="44e9b07b-91b5-4222-b579-fcf56ef673c2" />
+  <Project Path="NorthwindMVC/NorthwindMVC.csproj" Id="f33dc7c9-1140-4e97-a3a7-8aa376a06008" />
+</Solution>
